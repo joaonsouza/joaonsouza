@@ -17,10 +17,6 @@ Ajudo profissionais de dados a resolverem problemas reais de negócio usando **I
 
 | Case | Problema | Dados |
 |------|----------|-------|
-| [Análise de Crédito](https://github.com/joaonsouza/case-credito-aprovacao) | O que os dados de aprovação revelam além do modelo | Kaggle |
-| [Nobel Prize](https://github.com/joaonsouza/case-nobel-prize) | Padrões históricos que a narrativa padrão ignora | Kaggle |
-| [Titanic](https://github.com/joaonsouza/case-titanic) | Tomada de decisão em crise — o que os dados mostram | Kaggle |
-| [Android App Market](https://github.com/joaonsouza/case-android-market) | Oportunidade de produto em mercado saturado | Kaggle |
 
 ---
 
