@@ -17,6 +17,7 @@ Ajudo profissionais de dados a resolverem problemas reais de negócio usando **I
 
 | Case | Problema | Dados |
 |------|----------|-------|
+| [Dashboard não é entregável, é produto](./cases/dashboard-nao-e-entregavel-e-produto.md) | Portfólio de 40+ dashboards sem dono, sem métrica de uso e sem critério de descontinuação | Power BI, métricas de adoção |
 
 _Cada case tem um resumo aqui e o detalhe completo em [`cases/`](./cases). Novo case: copie [`cases/TEMPLATE.md`](./cases/TEMPLATE.md), preencha e adicione uma linha na tabela linkando para o arquivo._
 
