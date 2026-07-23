@@ -20,6 +20,7 @@ Ajudo profissionais de dados a resolverem problemas reais de negócio usando **I
 | [Dashboard não é entregável, é produto](./cases/dashboard-nao-e-entregavel-e-produto.md) | Portfólio de 40+ dashboards sem dono, sem métrica de uso e sem critério de descontinuação | Power BI, métricas de adoção |
 | [Os aviões que não voltaram](./cases/os-avioes-que-nao-voltaram.md) | Monitoramento de pipelines alerta só quando falha, não quando o dado chega errado ou silenciosamente para de chegar | Checks de qualidade de dados (DAMA-DMBOK) |
 | [O caso Datasaurus](./cases/o-caso-datasaurus.md) | Resumo estatístico (média, desvio, correlação) idêntico esconde padrões completamente diferentes nos dados | Power BI Desktop, Datasaurus Dozen |
+| [O que o PowerPoint pode ensinar sobre dashboards](./cases/o-que-o-powerpoint-pode-ensinar.md) | Dashboards bonitos mas ineficientes por falta de princípios de design de comunicação | Power BI, design de apresentação |
 
 _Cada case tem um resumo aqui e o detalhe completo em [`cases/`](./cases). Novo case: copie [`cases/TEMPLATE.md`](./cases/TEMPLATE.md), preencha e adicione uma linha na tabela linkando para o arquivo._
 
