@@ -21,6 +21,7 @@ Ajudo profissionais de dados a resolverem problemas reais de negócio usando **I
 | [Os aviões que não voltaram](./cases/os-avioes-que-nao-voltaram.md) | Monitoramento de pipelines alerta só quando falha, não quando o dado chega errado ou silenciosamente para de chegar | Checks de qualidade de dados (DAMA-DMBOK) |
 | [O caso Datasaurus](./cases/o-caso-datasaurus.md) | Resumo estatístico (média, desvio, correlação) idêntico esconde padrões completamente diferentes nos dados | Power BI Desktop, Datasaurus Dozen |
 | [O que o PowerPoint pode ensinar sobre dashboards](./cases/o-que-o-powerpoint-pode-ensinar.md) | Dashboards bonitos mas ineficientes por falta de princípios de design de comunicação | Power BI, design de apresentação |
+| [O caso Semmelweis](./cases/o-caso-semmelweis.md) | Evidência estatística inquestionável não foi suficiente para mudar uma decisão — hoje o mesmo erro de comunicação se repete em times de dados | Análise exploratória, testes de significância |
 
 _Cada case tem um resumo aqui e o detalhe completo em [`cases/`](./cases). Novo case: copie [`cases/TEMPLATE.md`](./cases/TEMPLATE.md), preencha e adicione uma linha na tabela linkando para o arquivo._
 
