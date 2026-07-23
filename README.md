@@ -18,6 +18,8 @@ Ajudo profissionais de dados a resolverem problemas reais de negócio usando **I
 | Case | Problema | Dados |
 |------|----------|-------|
 
+_Cada case tem um resumo aqui e o detalhe completo em [`cases/`](./cases). Novo case: copie [`cases/TEMPLATE.md`](./cases/TEMPLATE.md), preencha e adicione uma linha na tabela linkando para o arquivo._
+
 ---
 
 ### Onde me encontrar
