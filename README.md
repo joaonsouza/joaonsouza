@@ -1,15 +1,15 @@
 ## João Souza
 
-**Analytics Engineer · Data Product · Resolução de Problemas com IA**
+**Analytics Engineer, Data Product, resolução de problemas com IA**
 
-> Transformo dados em decisões. Uso IA, SQL, Power BI e Python como ferramentas — o produto final é o raciocínio.
+> Transformo dados em decisões. IA, SQL, Power BI e Python são as ferramentas, o raciocínio é o produto.
 
-Ajudo profissionais de dados a resolverem problemas reais de negócio usando **IA como co-analista**. Não foco em tecnologia — foco na pergunta certa, na decomposição do problema e na recomendação acionável.
+Ajudo profissionais de dados a resolver problemas reais de negócio usando IA como co-analista. O foco não é tecnologia, é a pergunta certa, a decomposição do problema e a recomendação acionável.
 
 Áreas de atuação:
-- 📊 **Analytics Engineering** — modelagem, qualidade e confiabilidade de dados
-- 📦 **Data Product** — dados como produto, UX de dados, métricas que importam
-- 🧠 **Engenharia de Negócio** — estruturar o problema antes de abrir o dataset
+- Analytics Engineering: modelagem, qualidade e confiabilidade de dados
+- Data Product: dados como produto, UX de dados, métricas que importam
+- Engenharia de negócio: estruturar o problema antes de abrir o dataset
 
 ---
 
